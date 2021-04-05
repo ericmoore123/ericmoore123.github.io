@@ -11,3 +11,9 @@ li, p{
     align-items: center;
     flex-direction: row;
 }
+
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
